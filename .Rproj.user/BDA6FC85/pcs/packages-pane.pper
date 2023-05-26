@@ -1,7 +1,0 @@
-{
-    "installOptions": {
-        "installFromRepository": true,
-        "libraryPath": "D:/Downloads/R setup/R-4.2.2/library",
-        "installDependencies": true
-    }
-}
